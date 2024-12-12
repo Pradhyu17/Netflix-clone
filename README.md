@@ -74,13 +74,4 @@ git commit -m "<your_commit_message>"
 git push origin YourBranchName
 ```
 
-**10.** Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
-
-**11.** **Congratulations!** You've made your first contribution! 🙌🏼
-
-
-<p align="center">
-
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Susmita-Dey/Netflix-Clone)
-
-</p>
+**10.** **Congratulations!** You've made your first contribution! 🙌🏼
