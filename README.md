@@ -1,7 +1,7 @@
 # Netflix-Clone
 This is the core code from scratch to clone the landing page of Netflix using **HTML, CSS and JavaScript.**
 
-## 📸 Screenshots
+##  Screenshots
 ![image](https://user-images.githubusercontent.com/79099734/156505537-8e28ee14-dd20-4299-9eea-984d7068c7fd.png)
 ![image](https://user-images.githubusercontent.com/79099734/156505592-42d7e884-e72c-41b8-8efe-856d1aeaf4b1.png)
 ![image](https://user-images.githubusercontent.com/79099734/156505619-e344eb2f-9298-4f76-8d59-d0f6a4f108dc.png)
@@ -11,25 +11,9 @@ This is the core code from scratch to clone the landing page of Netflix using **
 ![image](https://user-images.githubusercontent.com/79099734/156505809-309a6824-5d85-4cc0-9ffd-95d66fb2cf5e.png)
 
 
-## Watch the Live [Demo](https://susmita-dey.github.io/Netflix-Clone/)
+##  HOW TO MAKE A PULL REQUEST:
 
-
-## [Watch the video tutorial here](https://youtu.be/wpH0VR0hYTU)
-
-
-# 💥 How to Contribute
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Susmita-Dey/Netflix-Clone/pulls)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-- Take a look at the existing [Issues](https://github.com/Susmita-Dey/Netflix-Clone-With-HTML-CSS-JS/issues) or [create a new issue](https://github.com/Susmita-Dey/Netflix-Clone/issues/new/choose)!
-- [Fork the Repo](https://github.com/Susmita-Dey/Netflix-Clone/fork), create a branch for any issue that you are working on and commit your work.
-- Create a **[Pull Request](https://github.com/Susmita-Dey/Netflix-Clone/compare)** (_PR_), which will be promptly reviewed and given suggestions for improvements by the community.
-- Add screenshots or screen captures to your Pull Request to help us understand the effects of the changes that are included in your commits.
-
-## ⭐ HOW TO MAKE A PULL REQUEST:
-
-**1.** Start by making a fork the [**Netflix-Clone**](https://github.com/Susmita-Dey/Netflix-Clone) repository. Click on the <a href="https://github.com/Susmita-Dey/Netflix-Clone/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
+**1.** Start by making a fork the [**Netflix-Clone**](https://github.com/Pradhyu17/Netflix-clone) repository.
 
 **2.** Clone your new fork of the repository:
 
@@ -40,13 +24,13 @@ git clone https://github.com/<your-github-username>/Netflix-Clone
 **3.** Set upstream command:
 
 ```bash
-git remote add upstream https://github.com/Susmita-Dey/Netflix-Clone.git
+git remote add upstream https://github.com/Pradhyu17/Netflix-clone.git
 ```
 
 **4.** Navigate to the new project directory:
 
 ```bash
-cd Netflix-Clone
+cd Netflix-clone
 ```
 
 **5.** Create a new branch:
@@ -94,9 +78,6 @@ git push origin YourBranchName
 
 **11.** **Congratulations!** You've made your first contribution! 🙌🏼
 
-
-
-## All the best! 🥇
 
 <p align="center">
 
